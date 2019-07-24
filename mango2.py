@@ -10,6 +10,7 @@ def toga(a,b):
     b : str
         second var
     '''
+    
     return a+b
 
 

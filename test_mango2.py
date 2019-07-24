@@ -7,5 +7,6 @@ class TestMango2(unittest.TestCase):
 		self.assertEqual(0, toga(0,0))
 		self.assertEqual(-1, toga(0,-1))
 
+
 if __name__ == '__main__':
     unittest.main()
