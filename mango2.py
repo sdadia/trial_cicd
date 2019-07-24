@@ -11,6 +11,6 @@ def toga(a,b):
         second var
     '''
 
-    return a+b+1
+    return a+b
 
 
